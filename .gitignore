@@ -1,0 +1,4 @@
+# Obsidian local vault configuration and trash
+.obsidian/
+.trash/
+obsidian-desktop.ini
